@@ -21,8 +21,8 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img:hover {
-    border-color: palevioletred;
-    transform: scale(1.8)
+    border-color: aqua;
+    transform: scale(1.5)
 }
 
 #bday-age {
