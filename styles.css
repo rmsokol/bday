@@ -21,7 +21,7 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img:hover {
-    border-color: aqua;
+    border-color: gold;
     transform: scale(1.5)
 }
 
