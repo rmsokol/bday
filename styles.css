@@ -14,15 +14,15 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid palevioletred;
+    border: 6px solid gold;
     margin-top: 20px;
     margin-bottom: 10px;
     
 }
 
 #bff-img:hover {
-    border-color: gold;
-    transform: scale(1.5)
+    border-color: palevioletred;
+    transform: scale(1.8)
 }
 
 #bday-age {
